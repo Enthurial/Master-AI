@@ -20,4 +20,4 @@ To build AI systems where models can work together, train together, and reason t
 Early-stage research & development (foundational work in progress)
 
 ## Founder
-**Hardik** — Independent founder from India, focused on deep-tech AI research and long-term system building.
+**Hardik Sen** — Independent founder from India, focused on deep-tech AI research and long-term system building.
