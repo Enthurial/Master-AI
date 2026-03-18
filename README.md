@@ -1,4 +1,4 @@
-# Master AI
+# Enthurial
 
 Master AI is an AI-first startup focused on building collaborative, multi-model AI systems.
 
