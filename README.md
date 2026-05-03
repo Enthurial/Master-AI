@@ -1,6 +1,6 @@
-# Enthurial
+# Bitnova
 
-Enthurial is an AI-first startup focused on building collaborative, multi-model AI systems.
+Bitnova is an AI-first startup focused on building collaborative, multi-model AI systems.
 
 ## Vision
 To build AI systems where models can work together, train together, and reason together — not just respond.
